@@ -1,0 +1,22 @@
+{
+  "name": "feathers-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "feat": "./bin/feat.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.0",
+    "consolidate": "^0.16.0",
+    "figlet": "^1.5.0",
+    "fs-extra": "^9.0.1",
+    "handlebars": "^4.7.6",
+    "metalsmith": "^2.3.0",
+    "minimatch": "^3.0.4",
+    "ora": "^5.1.0",
+    "prompts": "^2.4.0",
+    "trash": "^7.0.0"
+  }
+}
